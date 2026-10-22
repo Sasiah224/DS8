@@ -148,3 +148,16 @@ Index 9: - John: 909-876-1234
 # Edge Case #3 - Searching for a value not in the table
 print(table.search("Chris")) # None
 ```
+
+## How to Run
+
+1. Install Python 3.
+2. Download this repository and open its folder in VS Code.
+3. Open a terminal in that folder.
+4. Run:
+
+```bash
+python hash_table.py
+```
+
+The program displays examples of adding contacts, searching by name, handling collisions, and updating an existing contact's phone number.
